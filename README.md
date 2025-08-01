@@ -1,2 +1,2 @@
 # Supabase
-Supabase adalah repository Database Posgre online
+Supabase adalah repository Database Postgre online
